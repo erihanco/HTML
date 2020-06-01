@@ -1,3 +1,5 @@
+<!--Focus points: heading/paragraph/list, main tag, img(image)/a(anchor)/input/div element, src/alt/href(#)/ attributes-->
+
 <!DOCTYPE html>
 <h2>CatPhotoApp</h2>
 <main>
